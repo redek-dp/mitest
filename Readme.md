@@ -6,10 +6,10 @@ VOCÊ PODE CLONAR ESTE EXEMPLO PARA UM REPOSITÓRIO PRÓPRIO E USÁ-LO PARA CONF
 
 ----------
 
-# LINK: DAV7 STORE
+# LINK: MITEST
 
 ```bash
-https://dav7.pages.dev/
+https://mitest.kexel.deno.net/
 ```
 
 --------
